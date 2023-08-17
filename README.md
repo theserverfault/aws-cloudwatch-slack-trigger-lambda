@@ -1,7 +1,7 @@
 # Get Started: Quick Doc
 
 ```
-git clone https://github.com/theserverfault/cloudwatch-slack-alarms
+git clone https://github.com/theserverfault/aws-cloudwatch-slack-trigger-lambda
 ```
 
 ```
