@@ -5,7 +5,7 @@ git clone https://github.com/theserverfault/aws-cloudwatch-slack-trigger-lambda
 ```
 
 ```
-cd cloudwatch-slack-alarms
+cd aws-cloudwatch-slack-trigger-lambda
 ```
 
 ```
